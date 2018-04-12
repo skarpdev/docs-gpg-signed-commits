@@ -1,5 +1,6 @@
 # Ubuntu guide
 
+This guide was written on Ubuntu 18.04 using GNOME, but should work on most Linux'es. 
 Get the required tools:
 
 ```bash
