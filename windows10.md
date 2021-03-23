@@ -5,4 +5,4 @@ This guide was written on Windows 10 and it obviously assumes that you have alre
 Basically follow this guide:
 https://jamesmckay.net/2016/02/signing-git-commits-with-gpg-on-windows/
 
-In case the link is broken you can see a printed version of it in the [windowsGuide.pfd](./windowsGuide.pdf) here in the repo
+In case the link is broken you can see a printed version of it in the [windowsGuide.pdf](./windowsGuide.pdf) here in the repo
